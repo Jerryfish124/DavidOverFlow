@@ -1,7 +1,7 @@
 
 # Overflow - Reimagined Stack Overflow
 
-Overflow is a modern take on the traditional Stack Overflow platform, offering
+DavidOverflow is a modern take on the traditional Stack Overflow platform, offering
 enhanced features and a streamlined user experience. Built with cutting-edge
 technologies, this project aims to redefine how we engage with and find
 solutions in the developer community.
