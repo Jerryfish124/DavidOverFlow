@@ -20,7 +20,7 @@ solutions in the developer community.
 
 ## Key Features
 
-- **Recommendation System:** Empower users with personalized content
+- **Recommendation System:** AI powerd users with personalized content
   suggestions.
 - **AI-Generated Answers:** Enhance engagement with intelligent responses to
   user queries.
