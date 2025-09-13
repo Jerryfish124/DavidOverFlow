@@ -1,6 +1,9 @@
 
 # Overflow - Reimagined Stack Overflow
 
+<img width="1484" height="712" alt="image" src="https://github.com/user-attachments/assets/b476991f-8579-4050-9a54-f11c3e069250" />
+
+
 DavidOverflow is a modern take on the traditional Stack Overflow platform, offering
 enhanced features and a streamlined user experience. Built with cutting-edge
 technologies, this project aims to redefine how we engage with and find
