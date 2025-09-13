@@ -1,7 +1,7 @@
 
 # Overflow - Reimagined Stack Overflow
 
-![Uploading image.png…]()
+<img width="1484" height="712" alt="image" src="https://github.com/user-attachments/assets/b476991f-8579-4050-9a54-f11c3e069250" />
 
 
 Overflow is a modern take on the traditional Stack Overflow platform, offering
